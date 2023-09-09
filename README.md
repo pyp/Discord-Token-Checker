@@ -20,6 +20,7 @@
 - Go Coding Language
 - Proxyless/Threads/Retry options.
 - Uses TLS Client. (creds to [Leaked0](https://github.com/Leaked0/21k-dollars-discord-account-creator) for the code)
+- Clean and understandable logging. (creds to [dropout1337](https://github.com/dropout1337))
 - Pretty Organized Code. (if u are going to skid, give this repository credit please!!!)
 - Simple & easy to setup (if you have >=2iq) (use exe if you are retarded and can't run source)
 
