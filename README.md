@@ -13,7 +13,7 @@
 - Optional/Recommended: <em> Purchase [proxies](https://proxies.cx/). </em>
 - Fill out the `config.json` with your desired choices.
 - Start: `go run .` or `GoChecker.exe`.
-- <em>For additional support, please use this [resource](https://www.google.com/). I am not helping anyone unless $$$.</em> 
+- <em>For additional support, please join the [discord server](https://discord.gg/tokens).</em> 
 
 ## "what"
 
